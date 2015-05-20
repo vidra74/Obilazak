@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CityOS tracker</string>
+    <string name="otvori_obilaske">Pregled obilazaka</string>
+    <string name="unos_obilazak">Unesi obilazak</string>
+    <string name="izmjena_obilazak">Izmjeni obilazak</string>
+    <string name="izbrisi_obilazak">Izbriši obilazak</string>
+    <string name="obilasci">Obilasci</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_unos_obilaska">Unos Obilaska</string>
+    <string name="save">Spremi Podatke</string>
+    <string name="cancel">Odustani</string>
+    <string name="vrijeme">Vrijeme</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="opis">Opis</string>
+    <string name="hint_opis">Unesi opis...</string>
+    <string name="uspjeh">Gotovo</string>
+    <string name="error">Puklo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_izmjena_obilaska">Izmjena Obilaska</string>
+    <string name="title_activity_prikaz_obilazaka">Prikaz Obilazaka</string>
+    <string name="title_activity_map_point">Map Point Aktivnost</string>
+    <string name="service_not_available">Servis dohvata adresa nedostupan</string>
+    <string name="no_address_found">Nije pronađena adresa</string>
+    <string name="address_found">Pronađena adresa</string>
+    <string name="invalid_lat_long_used">Korištene su neispravne koordinate</string>
+    <string name="title_activity_brisi_pointe">BrisiPointe</string>
+</resources>
